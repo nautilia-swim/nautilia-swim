@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="favicon.svg"
+   inkscape:export-filename="favicon-512.png"
+   inkscape:export-xdpi="768"
+   inkscape:export-ydpi="768"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="10.203125"
+     inkscape:cx="31.950995"
+     inkscape:cy="32"
+     inkscape:window-width="1440"
+     inkscape:window-height="897"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <!-- Hintergrund -->
+  <circle
+     cx="32"
+     cy="32"
+     r="32"
+     fill="#0B4F6C"
+     id="circle1" />
+  <!-- Wasserwellen (unten) -->
+  <path
+     d="M0 46 Q8 42 16 46 T32 46 T48 46 T64 46 V64 H0 Z"
+     fill="#1C7C9C"
+     id="path1" />
+  <path
+     d="M0 52 Q8 48 16 52 T32 52 T48 52 T64 52 V64 H0 Z"
+     fill="#145D77"
+     id="path2" />
+  <!-- Schwimmer (stilisiert, Freistil-Armzug) -->
+  <g
+     fill="#FFFFFF"
+     id="g7">
+    <!-- Kopf -->
+    <circle
+       cx="24"
+       cy="24"
+       r="4"
+       id="circle2" />
+    <!-- Körper -->
+    <path
+       d="M27 25 Q34 26 40 22"
+       stroke="#FFFFFF"
+       stroke-width="3.5"
+       stroke-linecap="round"
+       fill="none"
+       id="path3" />
+    <!-- ausgestreckter Arm nach vorn -->
+    <path
+       d="M40 22 Q45 19 49 22"
+       stroke="#FFFFFF"
+       stroke-width="3"
+       stroke-linecap="round"
+       fill="none"
+       id="path4" />
+    <!-- Arm nach hinten/oben (Zugphase) -->
+    <path
+       d="M27 25 Q22 18 26 12"
+       stroke="#FFFFFF"
+       stroke-width="3"
+       stroke-linecap="round"
+       fill="none"
+       id="path5" />
+    <!-- Beine mit Beinschlag -->
+    <path
+       d="M18 27 Q12 29 8 25"
+       stroke="#FFFFFF"
+       stroke-width="3"
+       stroke-linecap="round"
+       fill="none"
+       id="path6" />
+    <path
+       d="M18 27 Q12 32 7 34"
+       stroke="#FFFFFF"
+       stroke-width="3"
+       stroke-linecap="round"
+       fill="none"
+       id="path7" />
+  </g>
+</svg>
